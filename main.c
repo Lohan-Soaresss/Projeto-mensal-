@@ -1,12 +1,3 @@
-/*Grupo: Meninos da T.I.
-
-Alunos:
-Jo�o Bassoa
-Vitor Matheus
-Bernardo siqueira
-Andre Lohan*/
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
