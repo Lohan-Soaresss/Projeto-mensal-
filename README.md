@@ -1,0 +1,1 @@
+Este projeto é um sistema de ponto de venda (PDV) desenvolvido em linguagem C. Ele permite gerenciar a abertura de caixa, realizar vendas de múltiplos itens e gerar um relatório de faturamento ao encerrar o sistema.
